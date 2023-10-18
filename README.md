@@ -11,7 +11,7 @@ _It's like wearing nothing at all! nothing at all! nothing at all!_
 Light, silky dresses made from sheer fabrics that drape in ethereal ripples over
 the body.
 
-https://civitai.com/models/120969/sliced-bob-hairstyle
+https://civitai.com/models/167598/diaphanous-dress
 
 ## Parameters
 
